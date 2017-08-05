@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/catpjavacbe/!svn/ver/27873/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo
+END
+GetPolicyDetailBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/GetPolicyDetailBO.java
+END
+NomineeLoginBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/NomineeLoginBO.java
+END
+UploadBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/UploadBO.java
+END
+EditUserBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/EditUserBO.java
+END
+ClaimBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/ClaimBO.java
+END
+AdminRejectBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/AdminRejectBO.java
+END
+AdminApproveBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/AdminApproveBO.java
+END
+AdminBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/AdminBO.java
+END
+PolicyBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/PolicyBO.java
+END
+EditPolicyCheckBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/EditPolicyCheckBO.java
+END
+EditPolicyBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/EditPolicyBO.java
+END
+LoginBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/LoginBO.java
+END
+RegistrationBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/RegistrationBO.java
+END
+ApproveBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/ApproveBO.java
+END
+RejectBO.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/catpjavacbe/!svn/ver/27941/CBE15AJ014/HealthInsuranceSystem%20-%20HIS/coding/HealthInsuranceSystem/src/com/cognizant/bo/RejectBO.java
+END

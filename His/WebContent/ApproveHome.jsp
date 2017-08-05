@@ -1,7 +1,7 @@
-<%@page import="com.cognizant.beans.UserBean"%>
+<%@page import="com.ours.beans.UserBean"%>
 <%@page import="java.util.Set"%>
 <%@page import="java.util.Iterator"%>
-<%@page import="com.cognizant.beans.PolicyBean"%>
+<%@page import="com.ours.beans.PolicyBean"%>
 <%@page import="java.util.Map"%>
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
 	pageEncoding="ISO-8859-1"%>
